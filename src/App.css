@@ -6,4 +6,5 @@
 .active {
    background-color: rgb(0, 162, 255);
    color: #fff;
+   font: 50px;
 }
